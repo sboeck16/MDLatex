@@ -1,0 +1,10 @@
+{
+    "inner_opts" : {
+        "section" : [
+            { "pre": "multi2" }
+        ],
+        "text": [
+            { "pre" : "italic" }
+        ]
+    }
+}

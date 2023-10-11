@@ -1,0 +1,9 @@
+0.7.2
+    - improved lookup code, added outer options
+0.7.1
+    - flattened mdparser sub repo to main latex repo (easier usage, maybe revert later?)
+0.7.0
+    - first release.
+    - needs further testing by implementing it to other projects.
+    - needs more predefined short options (hardcoding them or some of them?)
+    - more documentation and examples and unit test are needed (maybe?)

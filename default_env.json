@@ -1,0 +1,19 @@
+{
+    "predefined" : {
+        "small": {
+            "env" : "small"
+        },
+        "multi2": {
+            "env": "multicols",
+            "args": ["2"]
+        },
+        "multi3": {
+            "env": "multicols",
+            "args": ["3"]
+        },
+        "italic": {
+            "env": "textit",
+            "use_short": true
+        }
+    }
+}
